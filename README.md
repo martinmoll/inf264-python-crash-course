@@ -2,9 +2,7 @@
 
 Welcome to the INF264 Python crash course. This repository contain guides (Jupyter notebooks) to help you get familiar with NumPy and Matplotlib, two Python libraries required for completing homeworks and the two mandatory projects in INF264.
 
-If you encounter any problems, feel free to ask a group leader or post your questions in the Discord channel [#python-crash-course](https://discord.com/channels/1248589525341704254/1248645036946620488).
-
-You are also very welcome to join the dedicated crash course session on **Monday, August 19th from 0815 to 1000** in the room **Aktivt rom 2+3 - Marineholmen** (ground floor at Høyteknologisenteret).
+If you encounter any problems, feel free to ask a group leader or post your questions in the Discord channel `#python-crash-course` on our Discord server.
 
 ## Prerequisites <!-- omit from toc --> 
 
